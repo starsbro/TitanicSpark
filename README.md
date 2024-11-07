@@ -1,0 +1,2 @@
+# TitanicSpark
+Scala/Spark homework
